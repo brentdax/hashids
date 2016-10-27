@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source_files  = "*.swift"
+  s.source_files  = "Sources/Hashids_Swift/*.swift"
   s.exclude_files = "*Tests.swift"
 
   s.requires_arc = true

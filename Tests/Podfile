@@ -3,7 +3,7 @@ platform :ios, '8.0'
 
 use_frameworks!
 
-target 'HashidsTests' do
+target 'Hashids_SwiftTests' do
 
   pod 'Hashids-Swift', :path => "./../"
 
